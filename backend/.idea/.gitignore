@@ -1,0 +1,37 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+
+# Environment
+.env
+
+# Application local config
+application-local.yml
+application-dev.yml
+
+# Uploads
+uploads/
+
+# MinIO local data
+minio-data/
+
+# Generated files
+*.class
+
+# Mac/Linux
+.shelf/
+workspace.xml
